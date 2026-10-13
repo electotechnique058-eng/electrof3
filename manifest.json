@@ -1,0 +1,11 @@
+{
+  "name": "ÉlectroF3 — Apprendre l'électrotechnique",
+  "short_name": "ÉlectroF3",
+  "description": "Espace de cours pour les classes Seconde, Première et Terminale F3.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#12345a",
+  "icons": []
+}
